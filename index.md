@@ -3,9 +3,8 @@
 或许你是第一次打开这里，没错本网页也只是在2017/4/24日，也就是刚刚我才开始入手！
 
 当然我还有一个微信公众号：Geeker知道
-你可以在关注他，获取你想要的知识，技巧，甚至是软件资源。
-[Image](https://zjt4869.github.io/windson.github.com/Geeker.jpg)
-
+你可以在关注他，获取你想要的知识，技巧，甚至是软件!资源。
+ ![:Image](https://zjt4869.github.io/windson.github.com/Geeker.jpg)
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for

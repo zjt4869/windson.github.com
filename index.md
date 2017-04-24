@@ -5,7 +5,7 @@
 当然我还有一个微信公众号：Geeker知道
 你可以在关注他，获取你想要的知识，技巧，甚至是软件资源！
 <img src="./Geeker.jpg" width = "200" height = "200" alt="图片名称" align=center />
-你可以使用“微信扫一扫关注我们”
+<br/>你可以使用“微信扫一扫关注我们”
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for

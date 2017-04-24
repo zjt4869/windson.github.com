@@ -1,8 +1,10 @@
-## Welcome to GitHub Pages
+## 欢迎来到昨日轻风的Github
 
-You can use the [editor on GitHub](https://github.com/zjt4869/windson.github.com/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+或许你是第一次打开这里，没错本网页也只是在2017/4/24日，也就是刚刚我才开始入手！
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+当然我还有一个微信公众号：Geeker知道
+你可以在关注他，获取你想要的知识，技巧，甚至是软件资源。
+
 
 ### Markdown
 

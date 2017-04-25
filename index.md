@@ -4,12 +4,9 @@
 
 当然我还有一个微信公众号：Geeker知道
 你可以在关注他，获取你想要的知识，技巧，甚至是软件资源！
-<html>
-<body>
-<img src="./Geeker.jpg" width = "200" height = "200" alt="Geeker" align=center />
-</body>
+![Image](http://https://github.com/zjt4869/windson.github.com/Geeker(2).jpg)
 <br/>你可以使用“微信扫一扫关注我们”
-</html>
+
 
 ### Markdown
 

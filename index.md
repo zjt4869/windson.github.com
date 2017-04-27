@@ -6,7 +6,7 @@
 - 你可以在关注他，获取你想要的知识，技巧，甚至是软件资源
 - 你可以使用“微信扫一扫关注我们”
 
-<center> ![Image](https://zjt4869.github.io/windson.github.com/Geeker.jpg)</center>
+![Image](https://zjt4869.github.io/windson.github.com/Geeker.jpg)
 
 
 

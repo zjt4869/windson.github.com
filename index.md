@@ -17,7 +17,7 @@
 如果你喜欢美丽的UI设计和酷炫的桌面，看这里准没有错~
 
 # 系统美化
-[win7登陆背景修改](http://baidu.com/)
+[background](http://www.baidu.com/)
 
 * win10登陆背景修改
 

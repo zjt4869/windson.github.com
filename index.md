@@ -4,46 +4,25 @@
 
 - 当然我还有一个微信公众号：Geeker知道
 - 你可以在关注他，获取你想要的知识，技巧，甚至是软件资源
-- 你可以使用“微信扫一扫关注我们”
+- 你可以使用“微信扫一扫关注我们
+<br/>
 
-![Image](https://zjt4869.github.io/windson.github.com/Geeker.jpg)
+  ![Image](https://zjt4869.github.io/windson.github.com/Geeker.jpg)
 
+或者你可以点击下面的链接传送过去~
+<br/>
+### 系统美化
+- [win7登陆背景](http://mp.weixin.qq.com/s/UWeJQqNZnYdtkAxS4A7Xfg)
+- [win10登陆背景](http://mp.weixin.qq.com/s/jkLIOggPZxOLqhwdsiU7kg)
+- [图标任务栏居中](http://mp.weixin.qq.com/s/oxUzTgud9GWKsKXJcS62_Q)
+- [win10仿MAC 美化](http://mp.weixin.qq.com/s/FnAyy_qchjGPLqMfC_Um-w)
+### 硬件介绍
+- [装机硬件介绍](http://mp.weixin.qq.com/s/0ZSJg-Kolqqfr0At-5giww)
+### 软件巧用
+- [收趣云书签]( http://mp.weixin.qq.com/s/-Udmroq-6lHtjlegozBllA)
+- [万能的Chrome及插件](http://mp.weixin.qq.com/s/dzqq_SEgI62AmPEO_dioAA)
+### 疑难杂症
+- [系统答疑篇（一）](http://mp.weixin.qq.com/s/UzLyi_SqJPuN9Yi1np1inw)
+- [系统答疑篇（二）](http://mp.weixin.qq.com/s/mtPlb5lzoCIdLQGvkgfuMA)
+- [系统基础篇（一）](http://mp.weixin.qq.com/s/rpNt9nziQenRssz0f30YpQ)
 
-
-# 知识点标签
-
-我们将他们分成这几类，希望可以帮你们快速的检索
-
-```markdown
-如果你喜欢美丽的UI设计和酷炫的桌面，看这里准没有错~
-
-# 系统美化
-[background](http://www.baidu.com/)
-
-* win10登陆背景修改
-
-* 图标任务栏居中
-
-* win10仿MAC桌面美化
-
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/zjt4869/windson.github.com/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
